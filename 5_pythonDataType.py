@@ -18,11 +18,12 @@ x=40.009 # float
 x=43j #complex
 x=["sharad","khare"] #list
 x=("sharad","khare") #tuple
-x=range(5) #range
+x=range(8) #range
 x={"name": "sharad","age":"100"} #dict
 x={"apple","banana","orange"} #set
 x=True #bool
 x=b"sharad" #bytes
+print(x)
 x=bytearray(5)  #bytearray
 x=memoryview(bytes(5)) #memoryview
 
@@ -44,4 +45,4 @@ x=bool(12)
 x=bytes(5)
 x=bytearray(6)
 x=memoryview(bytes(7)) 
-print(x)
+# print(x)

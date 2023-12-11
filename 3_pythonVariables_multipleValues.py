@@ -26,7 +26,7 @@ print(z)
 
 
 
-# ouput variables -->
+# output variables -->
 
 a="my name is sharad"
 print(a)
