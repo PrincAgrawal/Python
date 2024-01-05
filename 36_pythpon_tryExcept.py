@@ -18,6 +18,7 @@ except NameError:
 except:
     print("something else went wrong")"""
 
+x=67
 
 try:
     print("hello")
